@@ -1,2 +1,9 @@
 # hello-world-printer
-Description A minimal Python script to demonstrate the classic "Hello, World!" output, serving as a starting point for a new repository.
+# File: main.py
+
+def greet():
+    """Prints the classic 'Hello, World!' message."""
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    greet()
