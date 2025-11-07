@@ -7,8 +7,7 @@ def greet():
 
 def greet(message):
     """Prints a custom greeting message."""
-    print(message)
-
+printing a hardcoded "Hello, World!". Also updates the main execution block
 if __name__ == "__main__":
     # Changed the hardcoded message to a variable
     greeting_message = "Hello, GitHub Repository!"
